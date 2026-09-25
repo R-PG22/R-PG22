@@ -1,5 +1,5 @@
-<h1 align="center">I'm R_PG_</h1>
-<h3 align="center">Hello.</h3>
+<h1>I'm R_PG_</h1>
+<h3>Hello.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
